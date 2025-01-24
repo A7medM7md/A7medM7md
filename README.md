@@ -104,7 +104,6 @@
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
   <img alt="SQL Server Database" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=plastic&logo=microsoft-sql-server&logoColor=white">
 </a>
-
 &emsp;
 <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-8.0" target="_blank">
   <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-%23007ACC.svg?style=plastic&logo=dotnet&logoColor=white">
