@@ -31,7 +31,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `HackerRank`.
 - :student: I’m currently learning `Computer Science` and `Web Development`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1kQLAUOHe0eWlWqTOjuQi83zZ2TgEOXFL/view?usp=drive_link).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/19KtBA-pJUwezi_chs22-YlZAnGKQBcM0/view?usp=sharing).
 <br>
 
 
