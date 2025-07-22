@@ -26,12 +26,12 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](https://ci.tanta.edu.eg/) at [Tanta University].
+- :school: I am a Student at [Faculty of Computers & Informatics](https://ci.tanta.edu.eg/) at [Tanta University].
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `HackerRank`.
 - :student: I’m currently learning `Computer Science` and `Web Development`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/19KtBA-pJUwezi_chs22-YlZAnGKQBcM0/view?usp=sharing).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1AMlh-Rz1azLskB2M0QFPqVvdCVgenh8P/view?usp=drive_link).
 <br>
 
 
