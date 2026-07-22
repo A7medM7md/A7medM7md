@@ -11,12 +11,14 @@
 
 <br><br>
 
-- :school: I am a Student at [Faculty of Computers & Informatics](https://ci.tanta.edu.eg/) at [Tanta University].
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`, `HackerRank`.
-- :student: I’m currently learning `Computer Science` and `Web Development`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1xVqEY-DjXIfhQ8rsnb6iyFHssvGRG_h9/view?usp=drive_link).
+- 🎓 Computer Science Graduate from [Faculty of Computers & Artificial Intelligence](https://ci.tanta.edu.eg/) at [Tanta University].
+- 💼 Software Engineer specializing in **.NET Full-Stack Development** with 2+ years of professional experience.
+- 🚀 Passionate about building scalable, high-performance, and production-ready software solutions.
+- 💻 Competitive Programmer on `Codeforces`, `LeetCode`, and `HackerRank`.
+- 🧩 Interested in **System Design**, **Distributed Systems**, and **Cloud-Native Applications**.
+- 📚 Always learning, always building.
+- 🤝 Open to Software Engineering opportunities — check out [My Resume](https://drive.google.com/file/d/1xVqEY-DjXIfhQ8rsnb6iyFHssvGRG_h9/view?usp=drive_link).
+
 <br>
 
 ---
