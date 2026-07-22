@@ -2,8 +2,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=.NET+Developer;Computer+Science+Student;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
-
-<br>
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -15,7 +13,7 @@
 - 💼 Software Engineer specializing in **.NET Full-Stack Development** with 2+ years of professional experience.
 - 🚀 Passionate about building scalable, high-performance, and production-ready software solutions.
 - 💻 Competitive Programmer on `Codeforces`, `LeetCode`, and `HackerRank`.
-- 🧩 Interested in **System Design**, **Distributed Systems**, and **Cloud-Native Applications**.
+- 🧩 Interested in **Backend Development**, **System Design**, **Distributed Systems**, and **Scalable Software Architecture**.
 - 📚 Always learning, always building.
 - 🤝 Open to Software Engineering opportunities — check out [My Resume](https://drive.google.com/file/d/1xVqEY-DjXIfhQ8rsnb6iyFHssvGRG_h9/view?usp=drive_link).
 
